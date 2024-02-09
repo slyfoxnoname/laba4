@@ -1,7 +1,4 @@
-1: Hello, wold!
-2: Hello, wold!
-3: Hello, wold!
-4: Hello, wold!
-5: Hello, wold!
-6: Hello, wold!
-7
+0: Hello, world!
+1: Hello, world!
+2: Hello, world!
+3: Hello, world!
