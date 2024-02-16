@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1: Hello, world!
 2: Hello, world!
 3: Hello, world!
@@ -5,3 +6,9 @@
 5: Hello, world!
 6: Hello, world!
 7: Hello, world!
+=======
+0: Hello, world!
+1: Hello, world!
+2: Hello, world!
+3: Hello, world!
+>>>>>>> b93065c6b61bfd7804bcf37b68aa0d33ae23ae80
