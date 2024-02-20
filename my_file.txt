@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 1: Hello, world!
 2: Hello, world!
 3: Hello, world!
@@ -6,6 +5,4 @@
 5: Hello, world!
 6: Hello, world!
 7: Hello, world!
-=======
 0: Hello, world! - from remote
->>>>>>> 0d6c1936a224ac1648d46d0ca32d306c2d758b44
